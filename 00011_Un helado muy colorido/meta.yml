@@ -1,0 +1,16 @@
+---
+locale: es
+tags: []
+layout: input_kids
+editor: custom
+type: problem
+extra_visible: false
+teacher_info: "Además de revisar los mismos aspectos que en las actividades anteriores,
+  como los requisitos para incluir en la condición, distinguir las instrucciones que
+  se tienen que incluir según sea verdadera o no y reconocer las repeticiones: \n\n*
+  ¿Debo considerar alguna acción tanto si la condición es verdadera como si no? \n*
+  ¿Cómo se relacionan ese tipo de acciones con los bloques de la alternativa condicional?
+  \n* ¿Son tareas sujetas a una condición?"
+manual_evaluation: false
+choices: []
+name: Un helado muy colorido
