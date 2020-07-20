@@ -4,4 +4,4 @@ En el ejercicio anterior había algo distinto en la _estructura de control condi
 
 Seguimos manteniendo la misma idea que aprendimos hasta acá, y hasta podemos combinarlo de la misma forma con el resto de los bloques que conocemos. ¡Probémoslo! :grinning:
 
-> Completá este `programa` para que, `si hay chocolate y frutilla`, los `sirva` en el cucurucho; pero, `si no` queda más de alguno de los sabores, deberá `servir menta` en el vasito.
+> Completa este `programa` para que, `si hay chocolate y frutilla`, los `sirva` en el cono, pero `si no` queda más de alguno de los sabores, deberá `servir menta` en el vasito.
