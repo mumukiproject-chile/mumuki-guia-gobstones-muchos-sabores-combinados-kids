@@ -1,1 +1,0 @@
-¡Genial! La diferencia de este ejercicio con el anterior es que cada parte del condicional tiene un `repetir` que hace algo distinto. En el próximo veremos una combinación más. :stuck_out_tongue_winking_eye:

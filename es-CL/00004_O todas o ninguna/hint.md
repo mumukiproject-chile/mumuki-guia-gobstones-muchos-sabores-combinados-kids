@@ -1,1 +1,0 @@
-Te damos los procedimientos para sacar los helados de las bandejas y servirlos donde lo necesites. 

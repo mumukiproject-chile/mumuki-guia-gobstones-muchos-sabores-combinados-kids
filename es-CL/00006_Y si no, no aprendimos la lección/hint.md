@@ -1,1 +1,0 @@
-El helado de chocolate son bolitas negras, y el de frutilla son bolitas rojas. Si te fijas, algunas cosas de la consigna ya están resueltas. :wink:

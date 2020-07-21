@@ -1,15 +1,11 @@
 ---
 locale: es
-tags: []
+tags: [ ]
 layout: input_kids
 editor: custom
 type: problem
 extra_visible: false
-teacher_info: "Para pensar: \n\n* ¿Qué requisitos deben cumplirse para realizar las
-  acciones de la consigna? \n* ¿Qué bloque nos permite juntar más de un requisito
-  dentro de la condición? \n* ¿Debo realizar alguna acción cuando la condición no
-  se cumple? \n* ¿Qué tipo de bloque me lo permite? \n* ¿Hay acciones que se repitan
-  de forma consecutiva? \n* Si las hay, ¿intentaste agruparlas dentro de una repetición?"
+teacher_info: "Para pensar: \n\n* ¿Qué requisitos deben cumplirse para realizar las acciones de la consigna? \n* ¿Qué bloque nos permite juntar más de un requisito dentro de la condición? \n* ¿Debo realizar alguna acción cuando la condición no se cumple? \n* ¿Qué tipo de bloque me lo permite? \n* ¿Hay acciones que se repitan de forma consecutiva? \n* Si las hay, ¿intentaste agruparlas dentro de una repetición?"
 manual_evaluation: false
-choices: []
+choices: [ ]
 name: No repitas como un loro

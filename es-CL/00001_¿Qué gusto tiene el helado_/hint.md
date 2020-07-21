@@ -1,1 +1,0 @@
-Ya tienes hechos los procedimientos para `sacar chips` de la bandeja y `servirlos` sobre el helado. En este caso, tendrás que `repetir` cada acción `4 veces`. :wink:
