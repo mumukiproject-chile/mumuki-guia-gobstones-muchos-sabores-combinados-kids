@@ -1,11 +1,13 @@
 ---
 locale: es
-tags: [ ]
+tags: []
 layout: input_kids
 editor: custom
 type: problem
 extra_visible: false
-teacher_info: "Si prestamos atención a lo que indica la consigna: \n\n* ¿Cuántas condiciones deben cumplirse? \n* ¿Qué ocurre si no hay helado de un sabor? \n* ¿Y si no hay de ninguno?"
+teacher_info: "Si prestamos atención a lo que indica la consigna: \n\n* ¿Cuántas condiciones
+  deben cumplirse? \n* ¿Qué ocurre si no hay helado de un sabor? \n* ¿Y si no hay
+  de ninguno?"
 manual_evaluation: false
-choices: [ ]
+choices: []
 name: Este y ese
