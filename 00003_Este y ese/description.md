@@ -1,4 +1,5 @@
-<gs-attire attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-alternativa-kids/master/assets/attires/config.json"> </gs-attire> <gs-toolbox toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-muchos-sabores-combinados-kids/master/assets/toolbox.xml"> </gs-toolbox>
+<gs-attire attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-alternativa-kids/master/assets/attires/config.json"></gs-attire>
+<gs-toolbox toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-muchos-sabores-combinados-kids/master/assets/toolbox.xml"></gs-toolbox>
 
 En el ejercicio anterior conocimos un bloque más para usar con las condiciones: `y también`, que sirve para ver si ocurren las dos condiciones a la vez. :blush:
 

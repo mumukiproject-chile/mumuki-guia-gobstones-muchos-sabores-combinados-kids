@@ -1,4 +1,5 @@
-<gs-attire attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-alternativa-kids/master/assets/attires/config.json"> </gs-attire> <gs-toolbox toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-muchos-sabores-combinados-kids/master/assets/toolbox.xml"> </gs-toolbox>
+<gs-attire attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-alternativa-kids/master/assets/attires/config.json"></gs-attire>
+<gs-toolbox toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-muchos-sabores-combinados-kids/master/assets/toolbox.xml"></gs-toolbox>
 
 Magui es una fiel clienta de nuestra heladería :girl::shaved_ice:. Le gusta tanto el helado, que siempre pide dos bolas: una de chocolate y otra de frutilla. El problema es que, si falta alguno de los dos sabores (o ambos), no le podemos preparar el pedido. :pensive:
 

@@ -1,4 +1,5 @@
-<gs-attire attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-alternativa-kids/master/assets/attires/config.json"> </gs-attire> <gs-toolbox toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-muchos-sabores-combinados-kids/master/assets/toolbox.xml"> </gs-toolbox>
+<gs-attire attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-alternativa-kids/master/assets/attires/config.json"></gs-attire>
+<gs-toolbox toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-muchos-sabores-combinados-kids/master/assets/toolbox.xml"></gs-toolbox>
 
 ¡Vamos por uno más! :grin: Una última combinación para aprovechar al máximo las posibilidades de la programación.
 

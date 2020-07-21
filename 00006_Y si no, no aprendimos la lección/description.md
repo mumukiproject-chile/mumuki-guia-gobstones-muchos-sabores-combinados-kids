@@ -1,4 +1,5 @@
-<gs-attire attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-alternativa-kids/master/assets/attires/config.json"> </gs-attire> <gs-toolbox toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-muchos-sabores-combinados-kids/master/assets/toolbox.xml"> </gs-toolbox>
+<gs-attire attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-alternativa-kids/master/assets/attires/config.json"></gs-attire>
+<gs-toolbox toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-muchos-sabores-combinados-kids/master/assets/toolbox.xml"></gs-toolbox>
 
 En el ejercicio anterior había algo distinto en la _estructura de control condicional_: además del `si`, apareció un `si no` :hushed:. Y eso nos sirvió para atajar :soccer: las dos posibilidades: qué hacer `si` se `cumple` la condición, y qué hacer `si no` se `cumple` esa misma condición.
 
