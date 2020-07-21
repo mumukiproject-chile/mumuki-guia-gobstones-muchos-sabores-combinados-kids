@@ -1,0 +1,1 @@
+Este ejercicio era para recordar que no todo tiene que estar dentro de una estructura, y que podemos _reutilizar código_ o reorganizarlo para aprovechar al máximo lo que hacemos :recycle:. Con poquitas herramientas, si nos tomamos un tiempo :hourglass: para pensar, podemos hacer grandes cosas y resolver muchos problemas a la vez. :smile: 
