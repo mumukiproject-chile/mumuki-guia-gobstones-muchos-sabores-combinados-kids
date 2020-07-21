@@ -1,0 +1,13 @@
+---
+locale: es
+tags: [ ]
+layout: input_kids
+editor: custom
+type: problem
+extra_visible: false
+teacher_info: |-
+  La alternativa condicional no sólo nos permite hacer cosas si la condición es verdadera. Podemos elegir hacer algo cuando la condición se cumple y otra cosa cuando no.
+  Para explorar esta posibilidad tenemos un nuevo bloque disponible. Si miramos el programa, ¿cuál será la diferencia entre el ejemplo, que utiliza `si, si no` y escribir dos bloques `si` seguidos, pero negando la condición en el segundo? Piensa y propón ejemplos que justifiquen el uso de este nuevo bloque.
+manual_evaluation: false
+choices: [ ]
+name: "¿Y si no hay más?"
