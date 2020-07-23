@@ -3,7 +3,7 @@
 
 En el ejercicio anterior conocimos un bloque más para usar con las condiciones: `y también`, que sirve para ver si ocurren las dos condiciones a la vez. :blush:
 
-Este bloque y el de la negación son **operadores**, como los que conoces de matemática (:heavy_plus_sign:, :heavy_minus_sign:, :heavy_multiplication_x: y :heavy_division_sign:) :hushed:; pero no operan con números, sino que conectan _condiciones_ de diferentes maneras :wink:. Por eso, se los llaman **operadores** o **conectores lógicos**:
+Este bloque y el de la negación son **operadores**, como los que conoces de matemática (:heavy_plus_sign:, :heavy_minus_sign:, :heavy_multiplication_x: y :heavy_division_sign:) :hushed:; pero no operan con números, sino que conectan _condiciones_ de diferentes maneras :wink:. Por eso, se los llama **operadores** o **conectores lógicos**:
 
 * el `no` niega una condición, para que sepamos qué hacer `si` eso `no` se `cumple`
 * `y también` conecta dos condiciones, para saber qué hacer  `si` se `cumple` una `y también` se `cumple` la otra.
